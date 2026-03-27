@@ -1,0 +1,4 @@
+Graphs consist of vertices (nodes) and edges (connections). Graphs can be directed or undirected.
+Graph representations include adjacency matrix and adjacency list. Graph algorithms include traversal,
+shortest path, and minimum spanning tree. Dijkstra's algorithm finds shortest paths. BFS and DFS are
+fundamental graph traversals. Graphs model networks, relationships, and dependencies.

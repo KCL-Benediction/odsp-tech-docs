@@ -1,0 +1,4 @@
+Arrays are contiguous collections of elements. Arrays provide constant-time access by index. Array
+elements have the same data type. Array size is typically fixed at creation. Operations include
+insertion, deletion, and access. Arrays have O(1) access time and O(n) insertion time. Multidimensional
+arrays represent matrices and tables. Dynamic arrays resize automatically.

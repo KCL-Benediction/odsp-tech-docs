@@ -1,0 +1,5 @@
+HTML stands for HyperText Markup Language. HTML structures web page content using elements
+and tags. HTML documents start with a DOCTYPE declaration. The html element is the root element.
+The head section contains metadata. The body section contains visible content. Common HTML tags
+include div, span, p, h1-h6, a, img, and ul. HTML5 introduced semantic elements like header, footer,
+nav, and article.

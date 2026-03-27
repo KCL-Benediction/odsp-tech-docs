@@ -1,0 +1,5 @@
+HTTP stands for HyperText Transfer Protocol. HTTP is the foundation of web communication. HTTP
+uses a request-response model. Common HTTP methods include GET, POST, PUT, and DELETE.
+HTTP status codes indicate request outcomes: 200 (success), 404 (not found), 500 (server error).
+HTTP headers carry metadata about requests and responses. HTTPS adds security through
+encryption.

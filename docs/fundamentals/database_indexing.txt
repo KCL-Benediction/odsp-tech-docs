@@ -1,0 +1,4 @@
+Database indexes improve query performance. Indexes are data structures that speed up data
+retrieval. Common index types include B-tree and hash indexes. Primary keys automatically create
+indexes. Creating indexes on frequently queried columns improves performance. Too many indexes
+can slow down INSERT and UPDATE operations. Composite indexes cover multiple columns.

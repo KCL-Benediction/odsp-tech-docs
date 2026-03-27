@@ -1,0 +1,5 @@
+Python supports object-oriented programming through classes. Classes are blueprints for creating
+objects. Define classes using the class keyword. The __init__ method initializes object instances. The
+self parameter refers to the instance itself. Python supports inheritance, allowing classes to inherit from
+parent classes. Multiple inheritance is supported. Special methods like __str__ and __repr__
+customize object behavior.

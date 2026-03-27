@@ -1,0 +1,4 @@
+Linked lists consist of nodes containing data and references. Each node points to the next node. Singly
+linked lists have one direction. Doubly linked lists have bidirectional pointers. Linked lists allow efficient
+insertion and deletion. Linked lists have O(n) access time. Linked lists don't require contiguous
+memory. Circular linked lists connect the last node to the first.

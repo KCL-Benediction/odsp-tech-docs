@@ -1,0 +1,4 @@
+Azure is Microsoft's cloud computing platform. Azure provides infrastructure, platform, and software
+services. Virtual Machines offer compute resources. Azure Storage stores data. Azure SQL Database
+provides managed databases. Azure Functions enable serverless computing. Azure Active Directory
+manages identity. Resource groups organize Azure resources.

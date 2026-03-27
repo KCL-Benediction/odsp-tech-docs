@@ -1,0 +1,4 @@
+Variables in Python store data values. You don't need to declare variable types explicitly. Python
+automatically infers the type based on the value assigned. Variable names can contain letters,
+numbers, and underscores. Variable names must start with a letter or underscore. Python variables are
+case-sensitive. You can assign multiple variables in one line using tuple unpacking.

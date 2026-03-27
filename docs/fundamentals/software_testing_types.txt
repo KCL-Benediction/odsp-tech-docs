@@ -1,0 +1,4 @@
+Software testing verifies code correctness. Unit tests verify individual components. Integration tests
+verify component interactions. End-to-end tests verify complete workflows. Regression tests ensure
+changes don't break existing functionality. Performance tests measure speed and scalability. Security
+tests identify vulnerabilities. Test-driven development writes tests before code.

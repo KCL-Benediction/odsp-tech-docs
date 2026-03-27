@@ -1,0 +1,4 @@
+Hash tables map keys to values using hash functions. Hash functions convert keys to array indices.
+Collisions occur when keys hash to the same index. Collision resolution methods include chaining and
+open addressing. Hash tables provide O(1) average case for insertion, deletion, and lookup. Load
+factor affects hash table performance. Hash tables implement sets and dictionaries efficiently.

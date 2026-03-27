@@ -1,0 +1,4 @@
+GCP is Google's cloud computing platform. Compute Engine provides virtual machines. Cloud Storage
+stores objects. BigQuery analyzes large datasets. Cloud Functions run serverless code. Kubernetes
+Engine manages containers. Cloud SQL offers managed databases. GCP emphasizes machine
+learning and data analytics.

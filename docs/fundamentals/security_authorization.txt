@@ -1,0 +1,4 @@
+Authorization determines user access permissions. Authentication precedes authorization. Role-based
+access control assigns permissions to roles. Access control lists specify resource permissions.
+Principle of least privilege limits access. Authorization tokens grant temporary access. JWT (JSON
+Web Tokens) carry authorization data. Authorization prevents unauthorized resource access.

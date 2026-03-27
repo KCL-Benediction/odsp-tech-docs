@@ -1,0 +1,3 @@
+Git is a distributed version control system. Git tracks file changes. Repositories store project history.
+Commits save changes. Branches enable parallel development. Merging combines branches. Git clone
+copies repositories. Git push uploads changes. Git pull downloads changes. Git supports collaboration.

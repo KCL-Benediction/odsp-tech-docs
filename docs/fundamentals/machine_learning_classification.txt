@@ -1,0 +1,4 @@
+Classification assigns data to categories. Binary classification has two classes. Multi-class
+classification has multiple classes. Logistic regression classifies binary outcomes. Decision trees split
+data based on features. Random forests combine multiple decision trees. Support vector machines find
+optimal decision boundaries. Accuracy, precision, and recall measure classification performance.

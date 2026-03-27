@@ -1,0 +1,4 @@
+Django is a Python web framework. Django follows MTV (Model-Template-View) pattern. Django ORM
+abstracts database operations. Django admin provides automatic admin interface. Django forms
+handle user input. Django authentication manages users. Django migrations manage database
+schema. Django emphasizes rapid development and clean design.

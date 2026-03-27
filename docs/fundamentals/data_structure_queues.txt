@@ -1,0 +1,4 @@
+Queues follow First-In-First-Out (FIFO) principle. Primary operations are enqueue (add) and dequeue
+(remove). Queues are implemented using arrays or linked lists. Priority queues serve elements by
+priority. Circular queues wrap around when reaching the end. Double-ended queues (deques) allow
+insertion and deletion at both ends. Queues manage tasks in order of arrival.

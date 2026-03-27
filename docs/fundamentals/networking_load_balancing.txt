@@ -1,0 +1,4 @@
+Load balancing distributes traffic across multiple servers. Load balancers improve availability and
+reliability. Round-robin distributes requests equally. Least connections routes to least-busy server.
+Health checks monitor server status. Layer 4 load balancing operates at transport layer. Layer 7 load
+balancing operates at application layer. Load balancing enables horizontal scaling.

@@ -1,0 +1,5 @@
+WebSockets enable full-duplex communication between client and server. WebSockets maintain
+persistent connections. HTTP upgrades to WebSocket protocol. WebSockets reduce overhead
+compared to polling. WebSockets support real-time applications like chat and gaming. WebSocket
+messages can be text or binary. WebSockets work over TCP. Socket.io library simplifies WebSocket
+usage.

@@ -1,0 +1,4 @@
+Stacks follow Last-In-First-Out (LIFO) principle. Primary operations are push (add) and pop (remove).
+Peek returns the top element without removing it. Stacks are implemented using arrays or linked lists.
+Applications include function call management, undo operations, and expression evaluation. Stack
+overflow occurs when pushing to a full stack. Stacks have O(1) push and pop operations.

@@ -1,0 +1,4 @@
+Git branching creates independent development lines. Branches enable feature development. Main
+branch holds stable code. Feature branches isolate work. Git checkout switches branches. Git merge
+combines branches. Merge conflicts require manual resolution. Rebase rewrites commit history.
+Branching strategies include Git Flow and trunk-based development.

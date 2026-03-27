@@ -1,0 +1,4 @@
+CDNs (Content Delivery Networks) distribute content globally. CDN edge servers cache content near
+users. CDNs reduce latency and improve performance. Origin servers provide original content. CDNs
+handle traffic spikes effectively. CDNs protect against DDoS attacks. Popular CDNs include Cloudflare,
+Akamai, and AWS CloudFront. CDNs accelerate static asset delivery.

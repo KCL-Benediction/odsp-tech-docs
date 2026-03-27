@@ -1,0 +1,4 @@
+Common web vulnerabilities include SQL injection, XSS, and CSRF. SQL injection exploits database
+queries. Cross-site scripting (XSS) injects malicious scripts. Cross-site request forgery (CSRF) tricks
+users into actions. Input validation prevents injection attacks. Content Security Policy mitigates XSS.
+HTTPS encrypts web traffic. Security headers protect against common attacks.

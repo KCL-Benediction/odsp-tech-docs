@@ -1,0 +1,5 @@
+Dynamic programming solves complex problems by breaking them into subproblems. DP stores
+subproblem results to avoid redundant computation. Two approaches exist: top-down (memoization)
+and bottom-up (tabulation). Classic DP problems include Fibonacci sequence, knapsack problem, and
+longest common subsequence. DP requires optimal substructure and overlapping subproblems. DP
+trades space for time efficiency.

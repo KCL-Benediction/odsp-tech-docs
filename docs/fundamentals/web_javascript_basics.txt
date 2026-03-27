@@ -1,0 +1,5 @@
+JavaScript is a programming language for web browsers. JavaScript adds interactivity to web pages.
+JavaScript can manipulate the DOM (Document Object Model). Variables are declared with var, let, or
+const. JavaScript supports functions, objects, and arrays. Event listeners respond to user actions.
+Modern JavaScript includes features like arrow functions and promises. JavaScript runs on both client
+and server (Node.js).

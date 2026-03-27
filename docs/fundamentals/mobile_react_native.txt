@@ -1,0 +1,4 @@
+React Native builds mobile apps with JavaScript. React Native uses React principles. Native
+components provide platform-specific UI. React Native compiles to native code. Hot reloading speeds
+development. React Native shares code across platforms. Expo simplifies React Native development.
+React Native accesses native features through modules.

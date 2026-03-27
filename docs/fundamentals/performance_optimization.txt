@@ -1,0 +1,4 @@
+Performance optimization improves application speed. Profiling identifies bottlenecks. Caching reduces
+repeated computation. Database query optimization improves data access. Code minification reduces
+file size. Image optimization reduces load time. Lazy loading defers resource loading. CDNs accelerate
+content delivery. Performance affects user experience and SEO.

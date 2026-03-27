@@ -1,0 +1,5 @@
+Dictionaries in Python store key-value pairs. Dictionaries are unordered collections (before Python 3.7)
+and ordered (Python 3.7+). You create dictionaries using curly braces or the dict constructor.
+Dictionary keys must be immutable and unique. Access values using keys in square brackets.
+Dictionary methods include keys, values, items, get, and update. Dictionary comprehensions create
+dictionaries concisely.

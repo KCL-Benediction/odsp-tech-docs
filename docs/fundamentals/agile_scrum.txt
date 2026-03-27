@@ -1,0 +1,4 @@
+Scrum is an agile framework. Sprints are fixed-length iterations. Daily standups sync team progress.
+Sprint planning defines work. Sprint reviews demonstrate results. Sprint retrospectives improve
+processes. Product backlog prioritizes features. Scrum master facilitates process. Product owner
+represents stakeholders. Scrum delivers value incrementally.

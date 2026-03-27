@@ -1,0 +1,4 @@
+IoT connects physical devices to the internet. Sensors collect environmental data. Actuators control
+physical systems. IoT devices communicate wirelessly. MQTT protocol enables lightweight messaging.
+IoT platforms manage device connectivity. Edge computing processes data locally. IoT applications
+include smart homes, wearables, and industrial automation. Security is critical for IoT.

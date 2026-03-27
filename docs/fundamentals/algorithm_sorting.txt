@@ -1,0 +1,4 @@
+Sorting algorithms arrange data in order. Common sorting algorithms include bubble sort, selection
+sort, insertion sort, merge sort, quick sort, and heap sort. Time complexity varies by algorithm. Bubble
+sort has O(n虏) complexity. Merge sort and quick sort have O(n log n) average complexity. Stable sorts
+maintain relative order of equal elements. In-place sorts use constant extra space.

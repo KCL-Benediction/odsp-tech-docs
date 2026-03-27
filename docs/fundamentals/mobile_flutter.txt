@@ -1,0 +1,4 @@
+Flutter builds cross-platform mobile apps. Dart is Flutter's programming language. Widgets compose
+Flutter UIs. Hot reload speeds development. Flutter compiles to native ARM code. Material Design and
+Cupertino widgets provide platform styles. Flutter supports web and desktop. Flutter emphasizes
+performance and beautiful UIs.

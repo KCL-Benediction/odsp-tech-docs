@@ -1,0 +1,4 @@
+SOLID principles guide object-oriented design. Single Responsibility: class has one reason to change.
+Open-Closed: open for extension, closed for modification. Liskov Substitution: subtypes replace base
+types. Interface Segregation: many specific interfaces better than one general. Dependency Inversion:
+depend on abstractions, not concretions. SOLID improves maintainability.

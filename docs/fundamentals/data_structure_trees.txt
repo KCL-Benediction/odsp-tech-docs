@@ -1,0 +1,4 @@
+Trees are hierarchical data structures with nodes. The top node is the root. Nodes with the same
+parent are siblings. Leaf nodes have no children. Binary trees have at most two children per node.
+Binary search trees maintain sorted order. Tree height affects operation complexity. Tree traversals
+include inorder, preorder, and postorder. Balanced trees maintain optimal height.

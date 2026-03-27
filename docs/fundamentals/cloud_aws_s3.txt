@@ -1,0 +1,4 @@
+S3 (Simple Storage Service) stores and retrieves data. S3 organizes data in buckets. Objects are
+stored with unique keys. S3 provides 99.999999999% durability. Storage classes optimize costs. S3
+supports versioning and lifecycle policies. S3 access control uses bucket policies and ACLs. S3 serves
+static websites.

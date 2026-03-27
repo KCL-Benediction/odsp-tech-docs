@@ -1,0 +1,5 @@
+Authentication verifies user identity. Passwords are the most common authentication method.
+Multi-factor authentication adds extra security layers. Authentication factors include knowledge,
+possession, and inherence. Password hashing protects stored passwords. Salt values prevent rainbow
+table attacks. OAuth enables third-party authentication. Biometric authentication uses physical
+characteristics.

@@ -1,0 +1,4 @@
+Git enables team collaboration. Remote repositories share code. GitHub, GitLab, and Bitbucket host
+repositories. Pull requests propose changes. Code reviews ensure quality. Forks create personal
+copies. Cloning downloads repositories. Pushing shares commits. Pulling receives updates. Git
+enables distributed development.

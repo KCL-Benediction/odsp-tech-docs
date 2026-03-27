@@ -1,0 +1,5 @@
+SQL stands for Structured Query Language. SQL manages relational databases. Common SQL
+commands include SELECT, INSERT, UPDATE, and DELETE. SELECT retrieves data from tables.
+WHERE clauses filter query results. JOIN operations combine data from multiple tables. SQL supports
+aggregate functions like COUNT, SUM, and AVG. SQL databases include MySQL, PostgreSQL, and
+SQLite.

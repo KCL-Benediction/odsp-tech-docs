@@ -1,0 +1,4 @@
+iOS powers Apple mobile devices. Swift is the primary iOS language. UIKit builds user interfaces.
+SwiftUI provides declarative UI. Xcode is the iOS development environment. App Store distributes iOS
+apps. iOS emphasizes user experience. Core Data manages persistent data. iOS supports location
+services and notifications.

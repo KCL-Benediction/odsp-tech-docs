@@ -1,0 +1,5 @@
+Python handles errors using exceptions. Try-except blocks catch and handle exceptions. You can
+catch specific exception types or use a general except clause. The finally block executes regardless of
+whether an exception occurred. The else clause executes if no exception was raised. You can raise
+exceptions using the raise keyword. Python includes built-in exceptions like ValueError, TypeError, and
+KeyError.

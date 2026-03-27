@@ -1,0 +1,4 @@
+CI/CD automates software delivery. Continuous Integration merges code frequently. Continuous
+Deployment releases changes automatically. CI/CD pipelines automate build, test, and deploy. Jenkins
+is a popular CI/CD tool. GitLab CI and GitHub Actions provide integrated CI/CD. Automated testing
+ensures code quality. CI/CD reduces manual errors and accelerates delivery.

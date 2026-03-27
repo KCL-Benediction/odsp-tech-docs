@@ -1,0 +1,5 @@
+CSS stands for Cascading Style Sheets. CSS styles HTML elements. You can apply CSS inline,
+internally, or externally. CSS selectors target HTML elements. Common selectors include element,
+class, and ID selectors. CSS properties control appearance like color, font-size, and margin. The box
+model includes content, padding, border, and margin. CSS supports responsive design with media
+queries.

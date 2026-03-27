@@ -1,0 +1,4 @@
+TCP/IP is the internet protocol suite. TCP provides reliable, ordered data delivery. IP handles
+addressing and routing. TCP uses three-way handshake for connection. TCP ensures data integrity
+through acknowledgments. UDP is faster but unreliable alternative. IP addresses identify network
+devices. IPv4 uses 32-bit addresses. IPv6 uses 128-bit addresses.

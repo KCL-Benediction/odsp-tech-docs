@@ -1,0 +1,4 @@
+Android is Google's mobile operating system. Kotlin is the preferred Android language. Android Studio
+is the development environment. Activities represent screens. Fragments create reusable UI
+components. XML defines layouts. RecyclerView displays lists. Google Play distributes Android apps.
+Android supports diverse device sizes.

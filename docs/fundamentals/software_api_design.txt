@@ -1,0 +1,4 @@
+API design creates interfaces for system interaction. RESTful APIs use HTTP methods. GraphQL
+provides flexible queries. API versioning manages changes. API documentation describes usage. API
+authentication secures access. Rate limiting prevents abuse. Error messages guide users. Consistent
+naming improves usability. APIs enable system integration.

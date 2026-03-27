@@ -1,0 +1,4 @@
+Lists in Python are ordered, mutable collections. Lists can contain elements of different data types. You
+create lists using square brackets. Lists support indexing and slicing operations. Common list methods
+include append, extend, insert, remove, and pop. List comprehensions provide concise syntax for
+creating lists. Lists can be nested to create multidimensional structures.

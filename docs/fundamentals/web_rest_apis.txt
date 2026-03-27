@@ -1,0 +1,4 @@
+REST stands for Representational State Transfer. REST APIs use HTTP methods for operations.
+RESTful APIs are stateless. Resources are identified by URIs. REST uses standard HTTP status
+codes. JSON is the common data format for REST APIs. REST principles include client-server
+architecture and uniform interface. REST APIs enable communication between different systems.

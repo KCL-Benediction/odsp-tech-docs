@@ -1,0 +1,4 @@
+AWS is Amazon's cloud computing platform. AWS provides on-demand computing resources. EC2
+offers virtual servers. S3 stores objects in buckets. RDS manages relational databases. Lambda runs
+serverless functions. VPC creates isolated networks. IAM manages access and permissions.
+CloudWatch monitors resources.

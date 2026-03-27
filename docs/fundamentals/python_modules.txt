@@ -1,0 +1,5 @@
+Modules are Python files containing reusable code. Import modules using the import keyword. Python's
+standard library includes modules like os, sys, math, and datetime. Third-party modules are available
+through PyPI. You can import specific functions using from module import function. The if __name__
+== '__main__' idiom allows modules to be run as scripts. Packages organize related modules in
+directories.

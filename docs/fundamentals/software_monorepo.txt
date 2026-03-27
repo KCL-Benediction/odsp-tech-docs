@@ -1,0 +1,4 @@
+Monorepos store multiple projects in one repository. Monorepos simplify dependency management.
+Code sharing across projects is easier. Atomic changes span multiple projects. Build tools handle
+monorepo complexity. Version control shows complete history. Monorepos require good tooling.
+Examples include Bazel and Nx. Monorepos versus polyrepos trade-offs exist.

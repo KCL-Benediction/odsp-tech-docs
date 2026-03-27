@@ -1,0 +1,4 @@
+NoSQL databases store data in non-tabular formats. NoSQL types include document, key-value,
+column-family, and graph databases. MongoDB is a popular document database. NoSQL databases
+scale horizontally. NoSQL is schema-flexible compared to SQL. NoSQL databases excel at handling
+large volumes of unstructured data. CAP theorem describes trade-offs in distributed databases.

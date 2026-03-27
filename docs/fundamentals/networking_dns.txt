@@ -1,0 +1,4 @@
+DNS translates domain names to IP addresses. DNS is a distributed hierarchical system. DNS queries
+start with root servers. Authoritative name servers hold DNS records. Common DNS record types
+include A, AAAA, CNAME, and MX. DNS caching improves performance. TTL values control cache
+duration. DNS enables human-readable web addresses.

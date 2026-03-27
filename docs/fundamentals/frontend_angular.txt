@@ -1,0 +1,4 @@
+Angular is a TypeScript framework for web applications. Angular uses component-based architecture.
+TypeScript adds static typing. Dependency injection manages dependencies. Angular CLI generates
+code. RxJS handles asynchronous operations. Angular forms validate input. Angular Router enables
+navigation. Angular emphasizes enterprise applications.

@@ -1,0 +1,4 @@
+Node.js runs JavaScript on servers. Node.js uses event-driven architecture. npm manages Node.js
+packages. Express.js simplifies web servers. Node.js handles concurrent requests efficiently.
+Asynchronous programming prevents blocking. Node.js streams process data efficiently. Node.js
+excels at I/O-intensive applications. Node.js enables full-stack JavaScript.

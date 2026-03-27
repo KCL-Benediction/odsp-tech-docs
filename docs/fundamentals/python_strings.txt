@@ -1,0 +1,4 @@
+Strings in Python are immutable sequences of characters. You can use single quotes, double quotes,
+or triple quotes for strings. String concatenation uses the plus operator. Python provides many string
+methods like upper, lower, strip, split, and join. F-strings offer formatted string literals with embedded
+expressions. Raw strings treat backslashes as literal characters.

@@ -1,0 +1,4 @@
+Design patterns solve common software problems. Creational patterns handle object creation.
+Structural patterns organize class relationships. Behavioral patterns define object communication.
+Singleton ensures single instance. Factory creates objects. Observer notifies dependents of changes.
+Strategy defines interchangeable algorithms. Patterns improve code reusability and maintainability.

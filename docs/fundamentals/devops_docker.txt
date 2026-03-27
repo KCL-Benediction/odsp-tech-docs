@@ -1,0 +1,4 @@
+Docker packages applications in containers. Containers include application code and dependencies.
+Docker images are container templates. Dockerfiles define image builds. Docker Hub hosts container
+images. Containers are lightweight and portable. Docker enables consistent environments. Docker
+Compose orchestrates multi-container applications.

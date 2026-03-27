@@ -1,0 +1,4 @@
+Testing frameworks automate test execution. JUnit tests Java applications. pytest tests Python code.
+Jest tests JavaScript applications. Selenium automates browser testing. Testing frameworks provide
+assertions and test runners. Mock objects simulate dependencies. Code coverage measures tested
+code percentage. Continuous testing integrates with CI/CD.

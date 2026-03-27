@@ -1,0 +1,4 @@
+State management organizes application data. Local state belongs to components. Global state shares
+across components. Redux centralizes state. Actions describe changes. Reducers specify state
+updates. Middleware handles side effects. Context API provides simple state sharing. State
+management libraries reduce complexity.

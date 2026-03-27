@@ -1,0 +1,5 @@
+Regression predicts continuous numerical values. Linear regression models linear relationships.
+Multiple regression uses multiple input variables. Polynomial regression models non-linear
+relationships. Mean squared error measures regression accuracy. Gradient descent optimizes
+regression parameters. Regularization prevents overfitting in regression. Ridge and Lasso are
+regularization techniques.

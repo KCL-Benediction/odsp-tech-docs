@@ -1,0 +1,4 @@
+Blockchain is a distributed ledger technology. Blocks contain transaction data. Blocks link through
+cryptographic hashes. Blockchain is immutable and transparent. Consensus mechanisms validate
+transactions. Proof of Work requires computational effort. Proof of Stake requires token ownership.
+Blockchain enables decentralized applications. Cryptocurrencies use blockchain technology.

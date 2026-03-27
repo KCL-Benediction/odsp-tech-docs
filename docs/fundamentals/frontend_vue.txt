@@ -1,0 +1,4 @@
+Vue is a progressive JavaScript framework. Vue uses single-file components. Vue templates declare
+UI. Vue directives add dynamic behavior. Vue reactivity tracks data changes. Vuex manages
+application state. Vue Router handles navigation. Vue CLI scaffolds projects. Vue emphasizes
+simplicity and flexibility.

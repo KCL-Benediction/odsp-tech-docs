@@ -1,0 +1,4 @@
+Functions in Python are defined using the def keyword. Functions encapsulate reusable code blocks.
+Functions can accept parameters and return values. Python supports default parameter values and
+keyword arguments. Functions can have docstrings for documentation. Lambda functions provide
+anonymous function expressions. Functions are first-class objects in Python.

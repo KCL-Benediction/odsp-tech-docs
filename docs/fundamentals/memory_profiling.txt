@@ -1,0 +1,10 @@
+Memory profiling identifies memory usage patterns and bottlenecks in applications. Profilers track
+memory allocation and deallocation over time. Heap dumps capture memory snapshots for analysis.
+Memory leaks occur when applications fail to release unused memory. Reference counting tracks
+object usage to prevent leaks. Weak references allow garbage collection while maintaining object
+access. Memory pressure triggers garbage collection in managed languages. Profiling tools include
+Valgrind for C/C++, Java VisualVM for Java, and Chrome DevTools for JavaScript. Memory
+fragmentation reduces available contiguous memory. Object pooling reuses objects to reduce
+allocation overhead. Generational garbage collection optimizes memory management by categorizing
+objects by age. Memory profiling improves application performance and stability by identifying
+inefficient memory usage patterns.

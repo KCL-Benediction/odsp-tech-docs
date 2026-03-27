@@ -1,0 +1,4 @@
+React is a JavaScript library for building user interfaces. React uses components to build UIs. JSX
+combines JavaScript and HTML. Props pass data to components. State manages component data.
+Hooks enable functional component features. Virtual DOM improves performance. React supports
+server-side rendering. React Native builds mobile apps.

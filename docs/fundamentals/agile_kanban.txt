@@ -1,0 +1,4 @@
+Kanban visualizes workflow. Kanban boards show work stages. Cards represent work items. Columns
+represent workflow stages. Work-in-progress limits prevent bottlenecks. Continuous flow replaces
+iterations. Pull systems limit work. Kanban emphasizes flow efficiency. Kanban adapts to changing
+priorities. Visual management improves transparency.

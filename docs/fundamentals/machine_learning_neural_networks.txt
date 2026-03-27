@@ -1,0 +1,4 @@
+Neural networks consist of interconnected neurons. Input layer receives data. Hidden layers process
+information. Output layer produces predictions. Neurons apply activation functions. Weights connect
+neurons. Backpropagation trains neural networks. Deep learning uses multiple hidden layers. Neural
+networks excel at complex pattern recognition.

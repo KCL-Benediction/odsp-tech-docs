@@ -1,0 +1,4 @@
+Infrastructure as Code manages infrastructure through code. IaC enables version control for
+infrastructure. Terraform provisions cloud resources. CloudFormation manages AWS infrastructure.
+Ansible automates configuration. IaC ensures reproducible environments. IaC supports disaster
+recovery. Declarative IaC describes desired state.

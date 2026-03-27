@@ -1,0 +1,4 @@
+Python provides two main loop types: for loops and while loops. For loops iterate over sequences like
+lists, tuples, and strings. While loops continue execution until a condition becomes false. The break
+statement exits a loop prematurely. The continue statement skips to the next iteration. Python supports
+loop else clauses that execute when loops complete normally.

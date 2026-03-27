@@ -1,0 +1,4 @@
+Heaps are complete binary trees satisfying heap property. Max heaps have parent values greater than
+children. Min heaps have parent values less than children. Heaps efficiently support priority queue
+operations. Heap insertion and deletion have O(log n) complexity. Heapify converts arrays to heaps.
+Heap sort uses heap data structure. Heaps find minimum or maximum efficiently.

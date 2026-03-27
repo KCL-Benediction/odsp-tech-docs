@@ -1,0 +1,4 @@
+Kubernetes orchestrates containerized applications. Kubernetes manages container deployment,
+scaling, and networking. Pods are the smallest deployable units. Services expose applications.
+Deployments manage pod replicas. ConfigMaps and Secrets manage configuration. Kubernetes
+supports automatic scaling. Kubernetes ensures high availability and self-healing.

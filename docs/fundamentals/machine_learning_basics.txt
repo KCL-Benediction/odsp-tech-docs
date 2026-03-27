@@ -1,0 +1,5 @@
+Machine learning enables computers to learn from data. Supervised learning uses labeled data.
+Unsupervised learning finds patterns in unlabeled data. Reinforcement learning learns through
+rewards. Training data teaches models. Test data evaluates model performance. Overfitting occurs
+when models memorize training data. Cross-validation assesses model generalization. Feature
+engineering improves model input.

@@ -1,0 +1,4 @@
+RESTful APIs follow architectural principles. Stateless communication improves scalability.
+Resource-based URLs identify entities. HTTP methods indicate operations. HATEOAS provides
+navigation links. API versioning manages breaking changes. Rate limiting prevents abuse. Caching
+improves performance. Error handling guides clients. REST APIs enable loose coupling.

@@ -1,0 +1,4 @@
+GraphQL is a query language for APIs. Clients specify exact data needs. GraphQL uses a single
+endpoint. Schema defines available data. Queries read data. Mutations modify data. Subscriptions
+enable real-time updates. GraphQL reduces over-fetching and under-fetching. GraphQL improves API
+flexibility.

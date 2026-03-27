@@ -1,0 +1,4 @@
+Web accessibility ensures all users can access content. WCAG provides accessibility guidelines.
+Semantic HTML improves screen reader compatibility. ARIA attributes enhance accessibility. Keyboard
+navigation enables non-mouse users. Color contrast ensures readability. Alt text describes images.
+Captions provide video transcripts. Accessibility benefits all users.

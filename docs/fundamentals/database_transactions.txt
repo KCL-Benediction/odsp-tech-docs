@@ -1,0 +1,5 @@
+Database transactions ensure data consistency. Transactions follow ACID properties: Atomicity,
+Consistency, Isolation, Durability. BEGIN starts a transaction. COMMIT saves transaction changes.
+ROLLBACK undoes transaction changes. Transaction isolation levels prevent concurrency issues.
+Deadlocks occur when transactions wait for each other. Optimistic and pessimistic locking control
+concurrent access.

@@ -1,0 +1,5 @@
+Cryptographic hash functions produce fixed-size outputs from inputs. Hash functions are one-way
+(irreversible). Common hash algorithms include MD5, SHA-1, and SHA-256. SHA-256 is currently
+recommended. Hash functions verify data integrity. Digital signatures use hashing and encryption.
+Hash collisions occur when different inputs produce same output. Salting hashes prevents dictionary
+attacks.

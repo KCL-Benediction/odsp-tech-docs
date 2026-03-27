@@ -1,0 +1,4 @@
+Monitoring tracks system health and performance. Metrics measure system behavior. Logs record
+system events. Tracing tracks request flows. Prometheus collects and stores metrics. Grafana
+visualizes monitoring data. ELK stack processes logs. Alerts notify teams of issues. Monitoring enables
+proactive problem detection.

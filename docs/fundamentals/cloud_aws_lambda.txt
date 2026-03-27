@@ -1,0 +1,4 @@
+AWS Lambda runs code without managing servers. Lambda functions execute in response to events.
+Lambda supports multiple programming languages. Lambda bills based on execution time. Lambda
+scales automatically. Lambda integrates with other AWS services. Lambda functions have execution
+time limits. Lambda enables serverless architectures.

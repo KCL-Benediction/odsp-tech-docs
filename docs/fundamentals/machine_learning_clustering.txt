@@ -1,0 +1,4 @@
+Clustering groups similar data points together. K-means clustering partitions data into k clusters.
+Hierarchical clustering creates tree-like structures. DBSCAN finds density-based clusters. Clustering is
+unsupervised learning. Silhouette score measures clustering quality. Clustering applications include
+customer segmentation and image compression. Elbow method determines optimal cluster count.

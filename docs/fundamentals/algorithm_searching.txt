@@ -1,0 +1,4 @@
+Searching algorithms find elements in data structures. Linear search checks each element
+sequentially. Binary search works on sorted arrays with O(log n) complexity. Hash tables provide O(1)
+average search time. Binary search trees organize data for efficient searching. Depth-first search and
+breadth-first search traverse graphs and trees. Search algorithms balance time and space complexity.
